@@ -4,5 +4,6 @@
 - https://rpubs.com/rsilvio/cidades_digitais
 
 ## Classificação do comparecimento as consultas agendadas
-- https://www.kaggle.com/joniarroba/noshowappointments
+- Dataset:https://www.kaggle.com/joniarroba/noshowappointments
+- Análise: https://github.com/silviolima07/Kaggle/blob/master/Classificando_o_comparecmento_em_consultas_m%C3%A9dicas_agendadas.ipynb
 
